@@ -11,7 +11,7 @@ body {
 }
 
 #loginForm {
-  background-color: #D31024;
+  background-color: #ffffff;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -38,7 +38,7 @@ input:focus {
 button {
   width: calc(100% - 20px);
   padding: 10px;
-  background-color: #007bff;
+  background-color: #D31024;
   border: none;
   color: #fff;
   border-radius: 4px;
